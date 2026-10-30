@@ -1,3 +1,7 @@
+header {
+    text-align: center;
+}
+
 body {
     background-color: rgb(255, 119, 22);
 }
@@ -5,4 +9,9 @@ body {
 
 .cont_center {
     text-align: center;
+}
+
+.letra {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gold;
 }
